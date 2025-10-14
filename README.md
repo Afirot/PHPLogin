@@ -12,7 +12,7 @@ This is an login panel created in PHP to protect php apps.
 
 First, you need to create a table in your database with the columns username, hash, userid.
 
-You can also add another tables, like role, name, etc, but that three columns are the minimum to make the app work.
+You can also add another tables, like role, name, etc, but these three columns are the minimum to make the app work.
 
 ```mysql
 CREATE TABLE users (
