@@ -30,7 +30,7 @@ I highly recommend creating an admin form to simplify this process, but you can 
 INSERT INTO users (userid, username, hash)
 VALUES ('<userid>', '<username>', '<hashedPassword');
 ```
-(Make sure <hashedPassword> is strongly hashed, NEVER plain text or a weak hash like MD5.)
+(Make sure ```hashedPassword``` is strongly hashed, NEVER plain text or a weak hash like MD5.)
 
 ## Configuration
 
