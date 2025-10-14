@@ -4,9 +4,9 @@ This is an login panel created in PHP to protect php apps.
 
 ### Requeriments
 
-*mysql
-*php
-*webserver
+* mysql
+* php
+* webserver
 
 ## Deployment
 
