@@ -15,7 +15,6 @@ try {
     <head>
         <meta charset="UTF-8">
         <!--<link rel="stylesheet" href="css/styles.css">-->
-        <link rel="stylesheet" href="css/styles_login.css">
         <title></title>
     </head>
     <body>
